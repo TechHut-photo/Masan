@@ -1,0 +1,5 @@
+# HTID:21606646: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_flag display_errors off
+php_flag log_errors on
+php_value error_log /path/to/your/error_log_file.log
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21606646:
